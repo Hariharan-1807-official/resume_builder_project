@@ -6,4 +6,4 @@ Build your resume from terminal — clean, structured, and 90%+ ATS-friendly.
 
 1. Run the builder:
 ```bash
-python builder.py
+python main.py
