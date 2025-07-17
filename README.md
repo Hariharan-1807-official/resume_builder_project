@@ -1,2 +1,9 @@
-# resume_builder_project
-built a resume builder using python that integrates ai which will provide ATS friendly resume in the form of PDF
+# 🤖 ATS Resume Builder Bot
+
+Build your resume from terminal — clean, structured, and 90%+ ATS-friendly.
+
+## 🚀 How to Use
+
+1. Run the builder:
+```bash
+python builder.py
